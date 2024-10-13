@@ -40,5 +40,16 @@ The dataset contains the following features:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/diabetes-prediction.git
-cd diabetes-prediction
+git clone https://github.com/kuldeep1909/Diabetes-Prediction-ML-Project
+```
+
+## **Technologies Used**
+- **Python**
+- **Pandas** for data manipulation
+- **NumPy** for numerical operations
+- **Scikit-learn** for model building and evaluation
+- **Pickle** for saving and loading the model
+
+
+
+
